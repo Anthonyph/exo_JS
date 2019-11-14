@@ -1,4 +1,4 @@
-#Exercices en JS
+# Exercices en JS
 
 Tout les scripts JS sont contenu dans le dossier lib, ainsi que l'index.
 Pour tester un script, remplacer dans l'index sa valeur (1 à 7).
